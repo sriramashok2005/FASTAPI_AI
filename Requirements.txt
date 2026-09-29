@@ -1,0 +1,4 @@
+ollama llama 3.2
+python-dotenv
+fastapi
+uvicorn
